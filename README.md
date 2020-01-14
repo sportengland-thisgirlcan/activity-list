@@ -1,7 +1,10 @@
 # This Girl Can Restricted Activity List
 List of activities within scope of This Girl Can
 
-This page contains a human readable form of the restricted [OpenActive](https://www.openactive.io) activity list scheme which can be accessed and should be referenced via the URL [`https://opendata.thisgirlcan.co.uk/activity-list/activity-list.jsonld`](https://opendata.thisgirlcan.co.uk/activity-list/activity-list.jsonld).
+This page contains a human readable form of the restricted [OpenActive](https://www.openactive.io) activity list scheme for This Girl Can which can be accessed and should be referenced via the URL [`https://opendata.thisgirlcan.co.uk/activity-list/activity-list.jsonld`](https://opendata.thisgirlcan.co.uk/activity-list/activity-list.jsonld).
+
+## License
+This data is derived from the [OpenActive Activity List](https://www.openactive.io/activity-list), is owned by [Sport England](https://www.sportengland.org/), and is licensed under the [Creative Commons Attribution Licence (CC-BY V4.0)](https://creativecommons.org/licenses/by/4.0/) for anyone to access, use and share; using attribution "[This Girl Can](https://opendata.thisgirlcan.co.uk)".
 
 ## ConceptSchemeRestriction
 ### beta:rootConcept
