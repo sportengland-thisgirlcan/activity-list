@@ -24,7 +24,7 @@
       "https://openactive.io/activity-list#d101b63b-572f-49d2-a027-d3a5748e6315"
     ],
     "publisher": {
-      "@type": "Organization",
+      "type": "Organization",
       "name": "This Girl Can",
       "legalName": "Sport England",
       "url": "https://www.sportengland.org/"
